@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/StanislavZab/json-server-for-blog/issues"
   },
-  "homepage": "https://github.com/StanislavZab/json-server-for-blog#readme"
+  "homepage": "https://github.com/StanislavZab/json-server-for-blog#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  }
 }
